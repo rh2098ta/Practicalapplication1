@@ -29,7 +29,7 @@ Findings: Coupon Acceptance by Occupation
 
 The chart shows how coupon acceptance rates differ across various occupations. Overall, there’s a clear difference in how likely people are to accept a coupon depending on their specific occupation. People working in sales, legal, and building & maintenance jobs/positions had the highest acceptance rates, which means they were generally more open to using coupons. Students, managers, and those in acrchitecture & engineering showed moderate acceptance, staying around the middle range -- roughly 45–55%. On the other hand, retired individuals, and those in farming, fishing, forestry, and transportation & material moving jobs had the lowest acceptance rates, which suggests that coupons may not appeal as much to these groups/specific occuaptions. In the end, these results indicate that a person’s occupation and possibly their income level or lifestyle can influence how likely they are to accept a coupon.
 
-<img width="2288" height="896" alt="image" src="https://github.com/user-attachments/assets/fccbc5f6-0519-4060-b3d7-d3a949ad58c7" />
+<img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/fccbc5f6-0519-4060-b3d7-d3a949ad58c7" />
 
 
 A bit more analysis of our findings looked at acceptance rates by occupation, time, and passenger type which revealed obvious behavioral patterns among mid-priced restaurant coupon respondents: KEY FINDING: Overall, coupon acceptance is highest among employed adults traveling with a partner during daylight hours. This finding strongly suggesets that marketing to working couples on lunch or evening commutes offers the greatest conversion potential.
