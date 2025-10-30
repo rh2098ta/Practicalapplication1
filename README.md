@@ -43,6 +43,14 @@ Finding: Distribute coupons mid-morning to mid-afternoon when users are planning
 Passenger Context: Drivers with a partner accepted coupons most frequently around 63 %, compared to friends around 46 %, those alone around 42 %, and those with kids around 37 %.
 
 Finding: Couples are the most receptive audience; family drivers the least.
+
+
 Overall, coupon acceptance is highest among employed adults traveling with a partner during daylight hours, suggesting that marketing to working couples on lunch or evening commutes offers the greatest conversion potential.
 
 <img width="1308" height="2156" alt="image" src="https://github.com/user-attachments/assets/5802f473-53a9-467e-b9a9-537f6c1c6dd3" />
+
+
+
+Next Steps and Recommendations
+
+As someone still learning about data analysis and machine learning, my next step would be to collect more data on mid-priced restaurant coupons to make the results more complete and balanced. I would also like to try a basic predictive model—such as logistic regression or a simple decision tree—to see if it can help estimate which customers are more likely to accept a coupon. It might be interesting to test different expiration times and ways of sending coupons, like through an app, by email, or in person, to see which works best. Based on what I found in this analysis (main key finding), future coupon campaigns could focus on working adults with partners, especially during midday hours and on sunny days, since those conditions seemed to have higher acceptance rates.
