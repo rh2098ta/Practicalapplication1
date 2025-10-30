@@ -1,6 +1,13 @@
 Practical Application 1: Will the Customer Accept the Coupon?
 Project: A mid-priced restaurant wants to increase customer traffic using targeted coupon campaigns.  This analysis identifies who, when, and where customers are most likely to accept coupons for similar mid-priced dining experiences.
 
+
+Dataset:: `coupons.csv` (UCI In-Vehicle Coupon Recommendation)  
+Notebook:: [View Jupyter Notebook → practicalassignment1.ipynb](https://github.com/YourGitHubUsername/YourRepoName/blob/main/practicalassignment1.ipynb)
+
+**Directory Structure**
+
+
 Data cleaning -- 
 I first dropped column car due to inconsistent and sparse entries.
 I then filled missing values in _Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, and Restaurant20To50_ with 'never'.
