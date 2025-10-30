@@ -36,7 +36,7 @@ A bit more analysis of our findings looked at acceptance rates by occupation, ti
 Occupation: As seen in the plot the highest coupon acceptance occurred among office & administrative support, computer & mathematical, and healthcare practitioners & technical professions around 55–60 %. Acceptance was notably lower among retired and business & financial groups, around 30–35 %.
 
 Finding:  Targeting employed professionals during work-adjacent hours is most effective.
-- Time of Day: Acceptance of coupons peaked at 10 AM around 60 %, followed by 2 PM aroud  53 % and 6 PM around 50 %. It then sharply declined in the evening time around 10 PM around less than 35%.
+- Time of Day: Acceptance of coupons peaked at 10am around 60 %, followed by 2pm aroud  53 % and 6pm around 50 %. It then sharply declined in the evening time around 10pm around less than 35%.
 
 Finding: Distribute coupons mid-morning to mid-afternoon when users are planning meals or finishing work.
 
@@ -49,6 +49,11 @@ Overall, coupon acceptance is highest among employed adults traveling with a par
 
 <img width="1308" height="2156" alt="image" src="https://github.com/user-attachments/assets/5802f473-53a9-467e-b9a9-537f6c1c6dd3" />
 
+One more piece of analysis and findings regarding the time of day:
+
+The following chart shows coupon acceptance at different times of day. Overall, coupon acceptance tends to be higher later in the day, especially around 6pm and 7am, where both coupon acceptance (orange bars) and total coupon offers are relatively high. 10pm also shows a large number of offers, but with a smaller share being accepted (as noted above w/ the sharp decline around 10pm). 10am and 2pm have fewer total offers and lower acceptance rates overall. These results suggest that people are more likely to accept coupons during commuting or meal-related hours, when they may already be out and more open to making a purchase.
+
+<img width="1188" height="994" alt="image" src="https://github.com/user-attachments/assets/a2570fcb-042e-48a8-a9f8-476948b98b42" />
 
 
 Next Steps and Recommendations
