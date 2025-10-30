@@ -54,7 +54,7 @@ One more piece of analysis and findings regarding the time of day:
 
 The following chart shows coupon acceptance at different times of day. Overall, coupon acceptance tends to be higher later in the day, especially around 6pm and 7am, where both coupon acceptance (orange bars) and total coupon offers are relatively high. 10pm also shows a large number of offers, but with a smaller share being accepted (as noted above w/ the sharp decline around 10pm). 10am and 2pm have fewer total offers and lower acceptance rates overall. These results suggest that people are more likely to accept coupons during commuting or meal-related hours, when they may already be out and more open to making a purchase.
 
-<img width="931" height="726" alt="image" src="https://github.com/user-attachments/assets/7344f2a8-40ab-4bc8-b8b1-0f8200857e21" />
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/7344f2a8-40ab-4bc8-b8b1-0f8200857e21" />
 
 Next Steps and Recommendations
 
