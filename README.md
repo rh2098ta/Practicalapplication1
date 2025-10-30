@@ -48,7 +48,7 @@ Finding: Couples are the most receptive audience; family drivers the least.
 
 Overall, coupon acceptance is highest among employed adults traveling with a partner during daylight hours, suggesting that marketing to working couples on lunch or evening commutes offers the greatest conversion potential.
 
-<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/5802f473-53a9-467e-b9a9-537f6c1c6dd3" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5802f473-53a9-467e-b9a9-537f6c1c6dd3" />
 
 One more piece of analysis and findings regarding the time of day:
 
