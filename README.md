@@ -6,8 +6,14 @@ Dataset:: `coupons.csv` (UCI In-Vehicle Coupon Recommendation)
 Notebook:: [View Jupyter Notebook → practicalassignment1.ipynb](https://github.com/rh2098ta/Practicalapplication1/blob/main/practicalassignment1.ipynb)
 
 
-**Directory Structure**
+Summary of Key Findings
 
+Overall acceptance rate: Mid-priced restaurant coupons were accepted about 44% of the time.
+Occupation: Highest acceptance among office, computer, healthcare, and technical professionals aroudn 55–60%. Lowest among retired and business/financial groups around 30–35%.
+Time of day: Acceptance peaks at 10am, 2pm, and 6pm (around 50–60%, then drops sharply after 10pm.
+Passenger context: Drivers with a partner had the highest acceptance rate aroudn 63% compared to those alone around 42% or with kids around 37%.
+Weather: Sunny conditions show the strongest acceptance arond 60%, while snowy/rainy weather days see lower response.
+Marketing implication: Target working couples during midday hours on sunny days for the best coupon conversion potential.
 
 Data cleaning -- 
 I first dropped column car due to inconsistent and sparse entries.
