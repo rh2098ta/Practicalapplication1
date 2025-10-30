@@ -3,7 +3,8 @@ Project: A mid-priced restaurant wants to increase customer traffic using target
 
 
 Dataset:: `coupons.csv` (UCI In-Vehicle Coupon Recommendation)  
-Notebook:: [View Jupyter Notebook → practicalassignment1.ipynb](https://github.com/YourGitHubUsername/YourRepoName/blob/main/practicalassignment1.ipynb)
+Notebook:: [View Jupyter Notebook → practicalassignment1.ipynb](https://github.com/rh2098ta/Practicalapplication1/blob/main/practicalassignment1.ipynb)
+
 
 **Directory Structure**
 
